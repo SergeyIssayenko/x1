@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "КазНИИСА: Модель 36 документов",
       "tensorShape": [
         1000,
         50
